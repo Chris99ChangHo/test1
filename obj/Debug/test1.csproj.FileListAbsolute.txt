@@ -1,0 +1,12 @@
+C:\Users\awake\source\repos\test1\test1\bin\Debug\test1.exe.config
+C:\Users\awake\source\repos\test1\test1\bin\Debug\test1.exe
+C:\Users\awake\source\repos\test1\test1\bin\Debug\test1.pdb
+C:\Users\awake\source\repos\test1\test1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\awake\source\repos\test1\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+C:\Users\awake\source\repos\test1\test1\obj\Debug\test1.Form1.resources
+C:\Users\awake\source\repos\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\awake\source\repos\test1\test1\obj\Debug\test1.csproj.GenerateResource.cache
+C:\Users\awake\source\repos\test1\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\awake\source\repos\test1\test1\obj\Debug\test1.csproj.CopyComplete
+C:\Users\awake\source\repos\test1\test1\obj\Debug\test1.exe
+C:\Users\awake\source\repos\test1\test1\obj\Debug\test1.pdb
